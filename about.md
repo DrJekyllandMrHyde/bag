@@ -8,7 +8,7 @@ Safest!
 
 ### Ready To Customize
 
-Binary Power of Sinatra(back-end) + Padrino(routing)  With Jeckyll(Front)
+Linux Based Sinatra, With Padrino Walk Around Network Weared By Jeckyll
 
 ### Contact me
 
