@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hi I Am Written On Jeckyll !
+title: Hi I Am Written On Jeckyll ! 
 ---
 
 Welcome 
