@@ -1,6 +1,6 @@
 ---
 layout: post
-title:This Site Written On Jeckyll ! 
+title: Back-end: Sinatra, Padrino | Front-end: Jeckyll Engine
 ---
 
 Welcome !
