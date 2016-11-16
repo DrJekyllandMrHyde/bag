@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Fastest
 permalink: /about/
 ---
 
-Some information about you!
+Safest!
 
-### More Information
+### Ready To Customize
 
-A place to include any other types of information that you'd like to include about yourself.
+Binary Power of Sinatra(back-end) + Padrino(routing)  With Jeckyll(Front)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](https://darkwire.io/)
