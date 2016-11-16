@@ -3,8 +3,8 @@ layout: post
 title:This Site Written On Jeckyll ! 
 ---
 
-Welcome 
+Welcome !
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+ [_config.yml]({{ site.baseurl }}/images/config.png)
 
-Connect Any ip like a boss [Web Terminal](https://0-00-4.github.io/telnet/terminal.html) .
+ [Web Terminal](https://0-00-4.github.io/telnet/terminal.html) .
